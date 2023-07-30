@@ -1,0 +1,11 @@
+C:\Users\moham\Downloads\HadesFCS-master\HadesFCS-master\Filtering\FIRWinSyncDesign\FIRWinSyncDesign\bin\Debug\FIRWinSyncDesign.exe.config
+C:\Users\moham\Downloads\HadesFCS-master\HadesFCS-master\Filtering\FIRWinSyncDesign\FIRWinSyncDesign\bin\Debug\FIRWinSyncDesign.exe
+C:\Users\moham\Downloads\HadesFCS-master\HadesFCS-master\Filtering\FIRWinSyncDesign\FIRWinSyncDesign\bin\Debug\FIRWinSyncDesign.pdb
+C:\Users\moham\Downloads\HadesFCS-master\HadesFCS-master\Filtering\FIRWinSyncDesign\FIRWinSyncDesign\obj\Debug\FIRWinSyncDesign.csproj.AssemblyReference.cache
+C:\Users\moham\Downloads\HadesFCS-master\HadesFCS-master\Filtering\FIRWinSyncDesign\FIRWinSyncDesign\obj\Debug\FIRWinSyncDesign.csproj.SuggestedBindingRedirects.cache
+C:\Users\moham\Downloads\HadesFCS-master\HadesFCS-master\Filtering\FIRWinSyncDesign\FIRWinSyncDesign\obj\Debug\FIRWinSyncDesign.frmMain.resources
+C:\Users\moham\Downloads\HadesFCS-master\HadesFCS-master\Filtering\FIRWinSyncDesign\FIRWinSyncDesign\obj\Debug\FIRWinSyncDesign.Properties.Resources.resources
+C:\Users\moham\Downloads\HadesFCS-master\HadesFCS-master\Filtering\FIRWinSyncDesign\FIRWinSyncDesign\obj\Debug\FIRWinSyncDesign.csproj.GenerateResource.cache
+C:\Users\moham\Downloads\HadesFCS-master\HadesFCS-master\Filtering\FIRWinSyncDesign\FIRWinSyncDesign\obj\Debug\FIRWinSyncDesign.csproj.CoreCompileInputs.cache
+C:\Users\moham\Downloads\HadesFCS-master\HadesFCS-master\Filtering\FIRWinSyncDesign\FIRWinSyncDesign\obj\Debug\FIRWinSyncDesign.exe
+C:\Users\moham\Downloads\HadesFCS-master\HadesFCS-master\Filtering\FIRWinSyncDesign\FIRWinSyncDesign\obj\Debug\FIRWinSyncDesign.pdb
